@@ -1,0 +1,2 @@
+# HuntersWind
+ This is a text based adventure game I created based off my long ago pet Hunter the guinea pig and currently Bart the hamster. I took inspiration to try developing an adventure game with the concepts of the Atlas Handpan for bringing in the natural and environment story line I am trying to bring to the adventure game. This is going to be developed on Python so I can get some more practice with the fundamentals
